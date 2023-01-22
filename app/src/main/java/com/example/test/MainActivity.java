@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //ok then or
         //ok then or
+        //let's see
+        //now or never
     }
 }
